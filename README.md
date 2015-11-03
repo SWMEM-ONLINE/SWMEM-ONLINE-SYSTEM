@@ -1,2 +1,0 @@
-# SWMEM-ONLINE-SYSTEM
-..
